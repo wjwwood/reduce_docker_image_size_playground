@@ -1,0 +1,1 @@
+# reduce_docker_image_size_playground
